@@ -1,0 +1,8 @@
+pandas
+numpy
+seaborn
+folium
+streamlit_folium
+xgboost
+scikit-learn
+-e .
